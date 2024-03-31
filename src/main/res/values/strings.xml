@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">New_project</string>
+    <string name="register">Register</string>
+    <string name="healthcare">Healthcare</string>
+    <string name="lab_test">LAB TEST</string>
+    <string name="buy_medicines">BUY MEDICINES</string>
+    <string name="find_doctor">FIND DOCTOR</string>
+    <string name="health_articles">HEALTH ARTICLES</string>
+</resources>
